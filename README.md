@@ -3,26 +3,26 @@
 
 <h2>Minha apresentação:</h2>
 
-<a href="https://deyvid4900.github.io/Apresentacao/"> Clique aqui </a>
+<a href="https://deyvid4900.github.io/Apresentacao/" target="_blank"> Clique aqui </a>
 
 Projeto Site Apple-Brasil:
 
-<a href="https://deyvid4900.github.io/Projeto-Iphone/"> Clique aqui </a>
+<a href="https://deyvid4900.github.io/Projeto-Iphone/" target="_blank"> Clique aqui </a>
 
 Projeto Redes-Sociais:
 
-<a href="https://deyvid4900.github.io/Projeto-Social/"> Clique aqui </a>
+<a href="https://deyvid4900.github.io/Projeto-Social/"  target="_blank"> Clique aqui </a>
 
 Projeto Login:
 
-<a href="https://deyvid4900.github.io/Projeto-Login/"> Clique aqui </a>
+<a href="https://deyvid4900.github.io/Projeto-Login/" target="_blank" > Clique aqui </a>
 
 Projeto Cordel:
 
-<a href="https://deyvid4900.github.io/Projeto-Cordel/"> Clique aqui </a>
+<a href="https://deyvid4900.github.io/Projeto-Cordel/"  target="_blank"> Clique aqui </a>
 
 Projeto cartão:
 
-<a href="https://deyvid4900.github.io/Projeto-Cartao/"> Clique aqui </a>
+<a href="https://deyvid4900.github.io/Projeto-Cartao/"  target="_blank"> Clique aqui </a>
 
 
